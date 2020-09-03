@@ -39,7 +39,7 @@ The goals / steps of this project are the following:
 
 ### Test the Model Performance
 
-#### 1. Test out the model with some challenging  situations like ext ream dark conditions occlusions due to the vehicles which even human wouldn't be able to recognize the lane lines  . Robustness under ext ream dark conditions show promising results than using basic feature engineering . 
+#### 1. Test out the model with some challenging  situations like extream dark conditions , occlusions due to the vehicles which even human wouldn't be able to recognize the lane lines  . Robustness under extream dark conditions show promising results than using basic feature engineering . 
 
 ![](images/1.png)
 ![](images/2.png)
