@@ -26,13 +26,13 @@ The goals / steps of this project are the following:
 ### Design and Test a Model Architecture
 
 
-#### 3. [SPATIAL CONVOLUTIONAL NEURAL NETWORK](https://arxiv.org/abs/1712.06080) .
+#### 2. [SPATIAL CONVOLUTIONAL NEURAL NETWORK](https://arxiv.org/abs/1712.06080) .
 
 ![](https://miro.medium.com/max/2100/1*vbrMpkLo0croh2wuBZwXJQ.png)
  
 
 
-#### 4. Model Training Results
+#### 3. Model Training Results
 
 ![](images/train.png)
  
